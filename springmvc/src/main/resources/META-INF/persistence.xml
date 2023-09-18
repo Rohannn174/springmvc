@@ -10,10 +10,10 @@
 			<property name="javax.persistence.jdbc.driver"
 				value="com.mysql.cj.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"
-				value="jdbc:mysql://localhost:3306/weje3mvc?createDatabaseIfNotExist=true" />
+				value="jdbc:mysql://root:PUP93wpvkSg1xGsLp1Td@containers-us-west-199.railway.app:6541/railway?createDatabaseIfNotExist=true" />
 			<property name="javax.persistence.jdbc.user" value="root" />
 			<property name="javax.persistence.jdbc.password"
-				value="root" />
+				value="PUP93wpvkSg1xGsLp1Td" />
 			<property name="hibernate.hbm2ddl.auto" value="update" />
 			<property name="hibernate.show_sql" value="true" />
 			<property name="hibernate.dialect"
